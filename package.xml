@@ -21,6 +21,10 @@
         <name>AssignmentRule</name>
     </types>
     <types>
+        <members>DataCloudGeoLocation</members>
+        <name>CleanDataService</name>
+    </types>
+    <types>
         <members>Case.Standard</members>
         <name>EscalationRule</name>
     </types>

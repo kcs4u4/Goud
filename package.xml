@@ -17,6 +17,11 @@
     </types>
     <types>
         <members>Case.Standard</members>
+        <members>Lead.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Case.Standard</members>
         <name>EscalationRule</name>
     </types>
     <types>

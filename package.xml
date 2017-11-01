@@ -25,6 +25,15 @@
         <name>CleanDataService</name>
     </types>
     <types>
+        <members>DXWorkshopObject__c.ws_field1__c</members>
+        <members>DXWorkshopObject__c.ws_field2__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>DXWorkshopObject__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Case.Standard</members>
         <name>EscalationRule</name>
     </types>

@@ -11,6 +11,9 @@
         <members>AppCls01</members>
         <members>AppCls02</members>
         <members>ApxCls1</members>
+        <members>DXWorkshopFetchRecords</members>
+        <members>DXWorkshopFetchRecordsTest</members>
+        <members>DxWorkshopCreateAccount</members>
         <members>MyClass</members>
         <members>MyWorld</members>
         <name>ApexClass</name>

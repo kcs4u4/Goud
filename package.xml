@@ -112,6 +112,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Task.UpdateStatus_2</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
         <members>Metric.Completion</members>
         <members>Metric.Progress</members>
         <name>RecordType</name>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>ramarao.g@autorabit.com</contactEmail>
+    <label>OpennSSL</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDwDCCAqgCCQDFpnI4xOnWmzANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCaW4xEjAQBgNVBAgMCXRlbGFuZ2FuYTESMBAGA1UEBwwJSHlkZXJhYmFkMRIwEAYDVQQKDAlBdXRvUkFCSVQxEzARBgNVBAsMClNhbGVzZm9yY2UxEjAQBgNVBAMMCUF1dG9SYWJpdDEtMCsGCSqGSIb3DQEJARYeY2hhbmRyYXNoZWtoYXIua0BhdXRvcmFiaXQuY29tMB4XDTE3MDkwODE0MDI1M1oXDTE4MDkwODE0MDI1M1owgaExCzAJBgNVBAYTAmluMRIwEAYDVQQIDAl0ZWxhbmdhbmExEjAQBgNVBAcMCUh5ZGVyYWJhZDESMBAGA1UECgwJQXV0b1JBQklUMRMwEQYDVQQLDApTYWxlc2ZvcmNlMRIwEAYDVQQDDAlBdXRvUmFiaXQxLTArBgkqhkiG9w0BCQEWHmNoYW5kcmFzaGVraGFyLmtAYXV0b3JhYml0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANzg7or8X5FlRLBeLrSOXbIPehDyxQULwBRvIyMfhm+sVYAiKFHRC0f3NCPUwbEv7JjC7g9qbp22prGiFk3Bj6PWTVmbjO3ffh1eIlmNKAW21HePmC9gNpxpruiXj06E3DQzfaWu6yuIWsgfpxAtyBMeqaaE6aDrvklw9/qwaRa2Ek/F8Va0MR9lbbsfdtzFRIMf7WiiwX6u/1vxEsMvEWoeQIaMOrdx8huF21RG8K0oPs8oQ68Fb5bYouknEXHPdHGzwchzVjD1BdBaiH8q26S332HVMgwdCbhLz73e8cpaAnpAdjYDpBFKSt8YaD3tzgXOD/NChULmeWhCzBBdA3MCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAwv+VItz8wqdRLVg1IRSfpVQ47KgNYxENisQMRBp0RhMz89ck+iKLK3W/BHRtDSCKGc/bkCjthPFqnmzKoJPFm1OAds98YwGH1kzDYhr02cf1bWK8v6Q6/Xpj/P0X81M0+h9GXGbAa5Xt4P+hDs+sZnkbA/Fwqnbi0gWD7IQlrrnWQiG6Tf3UsOKDGL7j22Lz0NBGPnEXyAHMSWudpY5rVQkPTXYJAzPaPpn+g2Im5M78NWrJEJXl5IIXzaAa/YnDocKTEk89ForOzIIKB9FzUerYb8WwOZheULUCuzZyv53kaGxRCORwhw95YmC5fFrVpkE8VcBYfUhw3dArfx0d2A==</certificate>
+        <consumerKey>3MVG9d8..z.hDcPLKhdv4nBvYehLqRd3LL.BEeyDUyBU7aTyVVrHvKpBbc0w1L0m8eAuRijhkye6QtUzv6lHz</consumerKey>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>

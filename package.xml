@@ -28,6 +28,11 @@
         <name>CleanDataService</name>
     </types>
     <types>
+        <members>OpennSSL</members>
+        <members>dx</members>
+        <name>ConnectedApp</name>
+    </types>
+    <types>
         <members>DXWorkshopObject__c.ws_field1__c</members>
         <members>DXWorkshopObject__c.ws_field2__c</members>
         <name>CustomField</name>

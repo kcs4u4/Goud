@@ -11,8 +11,13 @@
         <members>AppCls01</members>
         <members>AppCls02</members>
         <members>ApxCls1</members>
+        <members>DXWorkshopFetchRecords</members>
+        <members>DXWorkshopFetchRecordsTest</members>
+        <members>DxWorkshopCreateAccount</members>
+        <members>DxWorkshopCreateAccountTest</members>
         <members>MyClass</members>
         <members>MyWorld</members>
+        <members>test</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -23,6 +28,16 @@
     <types>
         <members>DataCloudGeoLocation</members>
         <name>CleanDataService</name>
+    </types>
+    <types>
+        <members>DXWorkshopObject__c.ws_field1__c</members>
+        <members>DXWorkshopObject__c.ws_field2__c</members>
+        <members>DXWorkshopObject__c.ws_field3__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>DXWorkshopObject__c</members>
+        <name>CustomObject</name>
     </types>
     <types>
         <members>Case.Standard</members>

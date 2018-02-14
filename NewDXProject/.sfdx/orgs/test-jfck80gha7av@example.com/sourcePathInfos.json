@@ -1,0 +1,229 @@
+[
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518608923986,
+            "changeTime": 1518600228167,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518608923987,
+            "changeTime": 1518600228167,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518609105730,
+            "changeTime": 1518609105730,
+            "contentHash": "2ed1966858a69d044a020a30defd95645b188ea7"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518600265289,
+            "changeTime": 1518600265289,
+            "contentHash": "43b4b69d3178041751fe870f4db86d35076cccf7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518608923991,
+            "changeTime": 1518608923991,
+            "contentHash": "8cba0bbd1a2f704cd06ce6e888cdbdbee44d3077",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518608923997,
+            "changeTime": 1518608923997,
+            "contentHash": "83b63137b99c5ef80ca26869e6c31aa2c638d733",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\objects\\Test__c",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\objects\\Test__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518608924070,
+            "changeTime": 1518608924070,
+            "contentHash": "cb7efc9a3f90cccb433ca50b62ba98f15eb03a1a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518608924143,
+            "changeTime": 1518608924143,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\layouts\\Test__c-Test Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\layouts\\Test__c-Test Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2654,
+            "modifiedTime": 1517999995576,
+            "changeTime": 1517999995576,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\objects\\Test__c\\Test__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\objects\\Test__c\\Test__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2164,
+            "modifiedTime": 1517999995571,
+            "changeTime": 1517999995571,
+            "contentHash": "1827c020771c7b328b4c397d858ce906785b5bf6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17229,
+            "modifiedTime": 1518000750213,
+            "changeTime": 1518000750213,
+            "contentHash": "0268e2de3bc9ba01d15f37d34e7c6543fc4c0cd0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4200,
+            "modifiedTime": 1518000764836,
+            "changeTime": 1518000764836,
+            "contentHash": "af1e867931f0f4d6183221ab77d76a07fe538c58",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4200,
+            "modifiedTime": 1518000773133,
+            "changeTime": 1518000773133,
+            "contentHash": "af1e867931f0f4d6183221ab77d76a07fe538c58",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4539,
+            "modifiedTime": 1518000782555,
+            "changeTime": 1518000782555,
+            "contentHash": "7b6369884143b99c9c7bfbf254918b54ddd15619",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\classes\\Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\classes\\Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1518609105734,
+            "changeTime": 1518609105734,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\classes\\Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\classes\\Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 19,
+            "modifiedTime": 1518609105761,
+            "changeTime": 1518609105761,
+            "contentHash": "582db93c9385acd2873b6d96dd7406fa9695c54c"
+        }
+    ],
+    [
+        "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "D:\\ForcecomIDE2\\NewDXProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518609105760,
+            "changeTime": 1518609105760,
+            "contentHash": "acca1d2a46beb2ef5dd32ac3628a02ec86a5443c"
+        }
+    ]
+]

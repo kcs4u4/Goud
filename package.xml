@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AssignmentRules</name>
+    <members>Case</members>
+    <members>Lead</members>
+  </types>
+  <types>
+    <name>AssignmentRule</name>
+    <members>*</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>ARApexclass2</members>
+    <members>ARApexclass234</members>
+    <members>ARApexclass2345</members>
+    <members>ARPTCls1</members>
+    <members>Ac1</members>
+    <members>Ac2</members>
+    <members>AppCls01</members>
+    <members>AppCls02</members>
+    <members>ApxCls1</members>
+    <members>DXWorkshopFetchRecords</members>
+    <members>DXWorkshopFetchRecordsTest</members>
+    <members>DxWorkshopCreateAccount</members>
+    <members>DxWorkshopCreateAccountTest</members>
+    <members>MyClass</members>
+    <members>MyWorld</members>
+    <members>test</members>
+  </types>
+  <types>
+    <name>CleanDataService</name>
+    <members>DataCloudGeoLocation</members>
+  </types>
+  <types>
+    <name>EscalationRules</name>
+    <members>Case</members>
+  </types>
+  <types>
+    <name>EscalationRule</name>
+    <members>*</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>Account-Account %28Marketing%29 Layout</members>
+    <members>Account-Account %28Sales%29 Layout</members>
+    <members>Account-Account %28Support%29 Layout</members>
+    <members>Account-Account Layout</members>
+    <members>Address-Address Layout</members>
+    <members>Asset-Asset Layout</members>
+    <members>AssetRelationship-Asset Relationship Layout</members>
+    <members>AssignedResource-Assigned Resource Layout</members>
+    <members>AssociatedLocation-Associated Location Layout</members>
+    <members>Campaign-Campaign Layout</members>
+    <members>CampaignMember-Campaign Member Page Layout</members>
+    <members>Case-Case %28Marketing%29 Layout</members>
+    <members>Case-Case %28Sales%29 Layout</members>
+    <members>Case-Case %28Support%29 Layout</members>
+    <members>Case-Case Layout</members>
+    <members>CaseClose-Close Case Layout</members>
+    <members>Contact-Contact %28Marketing%29 Layout</members>
+    <members>Contact-Contact %28Sales%29 Layout</members>
+    <members>Contact-Contact %28Support%29 Layout</members>
+    <members>Contact-Contact Layout</members>
+    <members>ContentVersion-Content Version Layout</members>
+    <members>Contract-Contract Layout</members>
+    <members>DandBCompany-D%26B Company Layout</members>
+    <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
+    <members>EmailMessage-Email Message Layout</members>
+    <members>Event-Event Layout</members>
+    <members>Global-Global Layout</members>
+    <members>Idea-Idea Layout</members>
+    <members>Lead-Lead %28Marketing%29 Layout</members>
+    <members>Lead-Lead %28Sales%29 Layout</members>
+    <members>Lead-Lead %28Support%29 Layout</members>
+    <members>Lead-Lead Layout</members>
+    <members>Location-Location Layout</members>
+    <members>Macro-Macro Layout</members>
+    <members>MaintenanceAsset-Maintenance Asset Layout</members>
+    <members>MaintenancePlan-Maintenance Plan Layout</members>
+    <members>OperatingHours-Operating Hours Layout</members>
+    <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
+    <members>Opportunity-Opportunity %28Sales%29 Layout</members>
+    <members>Opportunity-Opportunity %28Support%29 Layout</members>
+    <members>Opportunity-Opportunity Layout</members>
+    <members>OpportunityLineItem-Opportunity Product Layout</members>
+    <members>Order-Order Layout</members>
+    <members>OrderItem-Order Product Layout</members>
+    <members>Pricebook2-Price Book Layout</members>
+    <members>PricebookEntry-Price Book Entry Layout</members>
+    <members>Product2-Product Layout</members>
+    <members>ProductConsumed-Product Consumed Layout</members>
+    <members>ProductItem-Product Item Layout</members>
+    <members>ProductItemTransaction-Product Item Transaction Layout</members>
+    <members>ProductRequest-Product Request Layout</members>
+    <members>ProductRequestLineItem-Product Request Line Item Layout</members>
+    <members>ProductRequired-Product Required Layout</members>
+    <members>ProductTransfer-Product Transfer Layout</members>
+    <members>ResourceAbsence-Resource Absence Layout</members>
+    <members>ResourcePreference-Resource Preference Layout</members>
+    <members>ServiceAppointment-Service Appointment Layout</members>
+    <members>ServiceResource-Service Resource Layout</members>
+    <members>ServiceResourceCapacity-Resource Capacity Layout</members>
+    <members>ServiceResourceSkill-Service Resource Skill Layout</members>
+    <members>ServiceTerritory-Service Territory Layout</members>
+    <members>ServiceTerritoryMember-Service Territory Member Layout</members>
+    <members>Shipment-Shipment Layout</members>
+    <members>SkillRequirement-Skill Requirement Layout</members>
+    <members>Solution-Solution Layout</members>
+    <members>Task-Task Layout</members>
+    <members>TimeSheet-Time Sheet Layout</members>
+    <members>TimeSheetEntry-Time Sheet Entry Layout</members>
+    <members>TimeSlot-Time Slot Layout</members>
+    <members>User-User Layout</members>
+    <members>UserProvAccount-User Provisioning Account Layout</members>
+    <members>UserProvisioningLog-User Provisioning Log Layout</members>
+    <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+    <members>WorkAccess-Access Layout</members>
+    <members>WorkBadge-Badge Received Layout</members>
+    <members>WorkBadgeDefinition-Badge Layout</members>
+    <members>WorkOrder-Work Order Layout</members>
+    <members>WorkOrderLineItem-Work Order Line Item Layout</members>
+    <members>WorkThanks-Thanks Layout</members>
+    <members>WorkType-Work Type Layout</members>
+  </types>
+  <types>
+    <name>WebLink</name>
+    <members>Account.Billing</members>
+    <members>Campaign.ViewCampaignInfluenceReport</members>
+    <members>Case.UpsellCrosssellOpportunity</members>
+    <members>Opportunity.DeliveryStatus</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>DXWorkshopObject__c</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>DXWorkshopObject__c.ws_field1__c</members>
+    <members>DXWorkshopObject__c.ws_field2__c</members>
+    <members>DXWorkshopObject__c.ws_field3__c</members>
+  </types>
+  <types>
+    <name>RecordType</name>
+    <members>Metric.Completion</members>
+    <members>Metric.Progress</members>
+  </types>
+  <types>
+    <name>RemoteSiteSetting</name>
+    <members>ApexDevNet</members>
+  </types>
+  <version>42.0</version>
+  <fullName>force-app</fullName>
+</Package>

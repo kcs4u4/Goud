@@ -59,6 +59,7 @@
         <relatedList>Addresses</relatedList>
     </relatedLists>
     <relatedLists>
+        <fields>Name</fields>
         <fields>ParentRecord</fields>
         <fields>Type</fields>
         <relatedList>AssociatedLocations</relatedList>
